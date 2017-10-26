@@ -99,7 +99,6 @@
 				TargetAttributes = {
 					050F5BCF1F9B83F400F1D3F9 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = UQ37D35Z4Z;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -265,7 +264,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = UQ37D35Z4Z;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Fruit_parsing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.ditapps.Fruit-parsing";
@@ -278,7 +277,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = UQ37D35Z4Z;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = Fruit_parsing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "kr.ac.ditapps.Fruit-parsing";
@@ -306,6 +305,7 @@
 				050F5BE41F9B83F400F1D3F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
